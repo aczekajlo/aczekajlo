@@ -1,7 +1,7 @@
 Hello 🙂
 
-My name is Agatha and I'm a geospatial scientist currently working in the elementsLab, in the School of Architecture and Landscape Architecture at the University of British Columbia (Vancouver, Canada).
+My name is Agatha and I'm trained geospatial scientist, currently working as a policy and planning analyst in regional government (Metro Vancouver, Canada).
 
-I am an R enthusiast - learning through practice!
+I'm an R enthusiast - learning through practice!
 
-My current interests include urban forestry, urban planning & design, and land use/cover.
+My current interests include urban forestry, urban planning & design, housing, and land use/cover change.
